@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
 
 /**
  * Unit test for simple App.
+ * To trigger a build
  */
 public class AppTest
 {
